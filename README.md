@@ -1,4 +1,4 @@
-# WrapX Netch-Client
+# WrapX Hostings LK - Netch-Client
 
 **WrapX Netch-Client** is a lightweight and user-friendly network acceleration client designed to provide a simple way to manage and connect through optimized network routes.
 
