@@ -54,9 +54,6 @@ All original credits and licenses for the Netch project remain applicable.
 
 ---
 
-## 📄 License
-
-Please refer to the [`LICENSE`](LICENSE) file for the license of this project.
 
 ---
 
