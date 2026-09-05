@@ -62,5 +62,5 @@ All original credits and licenses for the Netch project remain applicable.
 **WrapX Hostings LK** — Your Trusted Hosting & Network Solutions Provider.
 
 <p align="center">
-  Made with ❤️ by <b>WrapX Hostings LK</b>
+  Made By <b>WrapX Hostings LK</b>
 </p>
