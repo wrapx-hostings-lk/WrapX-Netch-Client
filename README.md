@@ -48,7 +48,7 @@ If you experience any issues while launching the client, please install the **.N
 
 ## 🤝 Credits
 
-WrapX Netch-Client is based on the **Netch** project and has been developed and customized by **WrapX Hostings LK**.
+WrapX Netch-Client is based on the **Netch** project and has been  Customized by **WrapX Hostings LK**.
 
 All original credits and licenses for the Netch project remain applicable.
 
