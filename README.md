@@ -1,7 +1,7 @@
 # 🚀 WrapX Hostings LK — Netch-Client
 
 <p align="center">
-  <img src="https://i.ibb.co/JRp2DDKz/image.png" alt="WrapX Netch-Client" width="800">
+  <img src="https://media.discordapp.net/attachments/1545121939708968980/1545634984285573172/image.png?ex=6aa41c80&is=6aa2cb00&hm=8847eaf0e528810ec5bb1af64187d03243e2b8e23c66c0d8a737ed77f5691b0a&=&format=webp&quality=lossless>
 </p>
 
 <p align="center">
